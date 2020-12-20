@@ -1,6 +1,8 @@
 
 #program to calculate BMI of a person
 
+print("Wlecome to BMI Calculator :)")
+
 height = float(input("Enter your height in meter(m): "))
 weight = float(input("Enter your weight in kilogram(kg): "))
 
